@@ -13,7 +13,7 @@ https://stackoverflow.com/questions/19743396/cors-cannot-use-wildcard-in-access-
 ```
 git clone repo
 yarn
-node index.js
+node index.js <port>
 ```
 
-Starts on port 4000
+Starts on port 4000 or <port>
